@@ -1,1 +1,1 @@
-# TechwiseHackathon Boids
+# TechwiseHackathon Boids Navid, Lan, Barry
